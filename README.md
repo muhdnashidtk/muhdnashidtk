@@ -1,16 +1,29 @@
-## Hi there 👋
-<img src="https://avatars.githubusercontent.com/u/171599874?v=4">
+# Nashid TK
 
-**muhdnashidtk/muhdnashidtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cyber Security Professional
 
-Here are some ideas to get you started:
+Hello! I'm Nashid TK, a passionate and dedicated cyber security professional with a focus on developing eco-friendly cybersecurity tools. My mission is to make the digital world a safer place while maintaining a sustainable approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About Me
+
+I specialize in various aspects of cybersecurity, including:
+
+- Penetration Testing
+- Network Security
+- Incident Response
+- Cyber Threat Intelligence
+- Secure Software Development
+
+
+### Collaboration
+
+I am always open to collaboration and eager to work with others who share a passion for cybersecurity and sustainability. If you're interested in collaborating on a project, feel free to reach out!
+
+### Contact
+
+- **Instagram :** [Nashid]()
+- **GitHub:** [Nashid TK](https://github.com/muhdnashidtk)
+- **LinkedIn :** [Nashid](https://www.linkedin.com/in/)
+
+Let's work together to build a safer and greener digital future!
 
