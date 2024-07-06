@@ -23,7 +23,7 @@ I am always open to collaboration and eager to work with others who share a pass
 
 - **Instagram :** [Nashid](https://instagram.com/ig.nashid)
 - **GitHub:** [Nashid TK](https://github.com/muhdnashidtk)
-- **LinkedIn :** [Nashid](https://www.linkedin.com/in/%20nashid-tk-3300b6304)
+- **LinkedIn :** [Nashid TK](https://www.linkedin.com/in/%20nashid-tk-3300b6304)
 
 Let's work together to build a safer and greener digital future!
 
